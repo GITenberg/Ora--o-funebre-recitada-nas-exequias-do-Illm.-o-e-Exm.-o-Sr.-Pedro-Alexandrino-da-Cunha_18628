@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8160
     wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Augusto_Teixeira_de_Vasconcelos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18628#Ora--o-funebre-recitada-nas-exequias-do-Illm.-o-e-Exm.-o-Sr.-Pedro-Alexandrino-da-Cunha
 gutenberg_issued: '2006-06-19'
 gutenberg_type: Text
 identifiers:
